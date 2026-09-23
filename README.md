@@ -12,9 +12,9 @@ Analyzed telecom customer data to understand churn patterns and improve customer
 - Extracted actionable insights on customer retention drivers.
 
 # Project Structure
-- `data/` - raw dataset
+- `data/` - raw dataset, cleaned datasets
 - `src/` - python code for data cleaning and EDA
-- `outputs/` - cleaned datset, Power BI file, dashboard image
+- `outputs/` - Power BI file, dashboard image
 
 # Key Insight
 Month-to-month contracts and short tenure customers have the highest churn risk.
